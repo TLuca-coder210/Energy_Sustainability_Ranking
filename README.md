@@ -2,8 +2,8 @@
 
 An end-to-end computer vision and deep learning system designed to automate the detection, segmentation, and ranking of building roofs for solar panel installation using high-resolution satellite imagery[cite: 1].
 
-**Author:** Teodorescu Luca-Nicolae, 1st Year Student, Faculty of Mathematics and Computer Science[cite: 1]  
-**Coordinator:** Conf. Dr. Alexe Bogdan[cite: 1]  
+**Author:** Teodorescu Luca-Nicolae, 1st Year Student, Faculty of Mathematics and Computer Science 
+**Coordinator:** Assoc. Prof. Dr. Alexe Bogdan 
 
 ---
 
