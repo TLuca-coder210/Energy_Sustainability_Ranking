@@ -40,7 +40,7 @@ To ensure high generalizability and prevent overfitting, the roof segmentation p
 
 | WHU Building Dataset | Inria Dataset |
 | :---: | :---: |
-| **RGB Images**<br><img src="./images/test_0026.png" width="200"> <img src="./images/test_0008.png" width="200"> <img src="./images/test_0004.png" width="200"><br><br>**Binary Masks**<br><img src="./images/test_0026_mask.png" width="200"> <img src="./images/test_0008_mask.png" width="200"> <img src="./images/test_0004_mask.png" width="200" > | **Imagini RGB**<br><img src="./images/inria_img1.png" width="200"> <img src="./images/inria_img2.png" width="200"> <img src="./images/inria_img3.png" width="200"><br><br>**Măști Binare**<br><img src="./images/inria_mask1.png" width="200"> <img src="./images/inria_mask2.png" width="200"> <img src="./images/inria_mask3.png" width="200"> |
+| **RGB Images**<br><img src="./images/test_0026.png" width="150"> <img src="./images/test_0008.png" width="150"> <img src="./images/test_0004.png" width="150"><br><br>**Binary Masks**<br><img src="./images/test_0026_mask.png" width="150"> <img src="./images/test_0008_mask.png" width="150"> <img src="./images/test_0004_mask.png" width="150" > | **Imagini RGB**<br><img src="./images/inria_img1.png" width="150"> <img src="./images/inria_img2.png" width="150"> <img src="./images/inria_img3.png" width="150"><br><br>**Măști Binare**<br><img src="./images/inria_mask1.png" width="150"> <img src="./images/inria_mask2.png" width="150"> <img src="./images/inria_mask3.png" width="150"> |
 
 ---
 
