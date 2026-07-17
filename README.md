@@ -20,7 +20,7 @@ An end-to-end computer vision and deep learning system designed to automate the 
 
 The pipeline processes input satellite images in parallel through two separate semantic segmentation streams, followed by morphological post-processing, pixel-level fusion, and connected component labeling[cite: 1]:
 
-![Architecture Diagram](./images/arhitectura.png)
+![Architecture Diagram](./images/Pipeline.drawio-6.png)
 
 1.  **Parallel SegFormer Streams:** Visual features are extracted using two parallel Transformer models (one for roofs, one for shadows)[cite: 1].
 2.  **Morphological Post-processing:** High-frequency noise and boundary defects are smoothed using Morphological Operations:
