@@ -5,7 +5,7 @@ An end-to-end computer vision and deep learning system designed to automate the 
 **Author:** Teodorescu Luca-Nicolae, 1st Year Student, Faculty of Mathematics and Computer Science  
 **Coordinator:** Assoc. Prof. Dr. Alexe Bogdan  
 
-This repository presents the core concept and methodology as showcased at the Student Scientific Communications Session organized by the University of Bucharest. The topic of this project was proposed by **PPC Romania**. Please note that this is a work in progress and the codebase may not be currently available on GitHub, as the research is actively being expanded for publication.
+This repository presents the core concept and methodology as showcased at the Student Scientific Communications Session organized by the University of Bucharest, where it won the 1st prize of the edition. The topic of this project was proposed by **PPC Romania**. Please note that this is a work in progress and the codebase may not be currently available on GitHub, as the research is actively being expanded for publication.
 
 ---
 
